@@ -1,6 +1,6 @@
 # JamsBox QT — Android Studio Project
-# Class Project Submitted By MD MUNNA MIA 
-# Roll: 04 CS_E-104
+## Class Project Submitted By MD MUNNA MIA 
+## Roll: 04                 Batch: CS_E-104
 
 This repository contains the Android implementation of JamsBox QT using Kotlin + Jetpack Compose + Material 3.
 
