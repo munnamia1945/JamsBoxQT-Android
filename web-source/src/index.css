@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+/* Textbook-Grade Mathematical Typography */
+.katex {
+  font-size: 1.06em;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.math-typeset-inline .katex {
+  font-size: 1.02em;
+  vertical-align: -0.05em;
+}
+
+.inline-math-item {
+  display: inline-block;
+  vertical-align: baseline;
+  line-height: 1.2;
+}
+
+.katex .frac-line {
+  border-bottom-width: 0.055em !important;
+  border-color: currentColor !important;
+}
+
+.katex .msupsub {
+  font-size: 0.76em;
+}
+
+.katex-display {
+  margin: 0.4em 0 !important;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.2em 0;
+}
+
+.katex-clean-fallback {
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 1.05em;
+  letter-spacing: 0.02em;
+}

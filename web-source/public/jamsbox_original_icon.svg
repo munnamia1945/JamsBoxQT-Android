@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+  <!-- Ground Contact Shadow -->
+  <path
+      fill="#1E293B"
+      fill-opacity="0.25"
+      d="M32,91 C32,87 76,87 76,91 C76,95 32,95 32,91 Z" />
+
+  <!-- 1. LEFT ISOMETRIC FACE -->
+  <!-- Top-Left Piece (Navy) -->
+  <path
+      fill="#243C6E"
+      d="M30,52 L42,45 C43,46 44,46 45,45 L46,42 L46,53 C45,54 45,55 46,56 L46,60 L35,66 C34,65 33,65 32,66 L30,68 Z" />
+
+  <!-- Top-Right Center Piece (Orange) -->
+  <path
+      fill="#F97316"
+      d="M46,42 L54,38 L54,54 C53,55 53,56 54,57 L54,64 L46,68 L46,60 C45,61 44,61 43,60 C42,59 43,58 44,57 L46,53 Z" />
+
+  <!-- Bottom-Left Piece (Orange) -->
+  <path
+      fill="#EA580C"
+      d="M30,68 L32,66 C33,65 34,65 35,66 L46,60 L46,68 C45,69 45,70 46,71 L46,75 L36,81 C35,80 34,80 33,81 L30,85 Z" />
+
+  <!-- Bottom-Right Piece (Navy Deep) -->
+  <path
+      fill="#172554"
+      d="M46,68 L54,64 L54,80 L44,86 C45,87 46,87 47,86 L47,78 C48,79 49,79 50,78 L46,75 Z" />
+
+  <!-- Jams Text Indicator on Left Face -->
+  <path
+      fill="#0B1B38"
+      d="M33,61 L35,60 L35,65 C35,67 33,67 32,66 L33,65 C34,65 34,64 34,63 Z" />
+  <path
+      fill="#0B1B38"
+      d="M36,60 L38,59 L39,63 L37,64 Z" />
+  <path
+      fill="#0B1B38"
+      d="M40,58 L42,57 L43,61 L41,62 Z" />
+  <path
+      fill="#0B1B38"
+      d="M43,56 L45,55 L45,59 L43,60 Z" />
+
+  <!-- 2. RIGHT ISOMETRIC FACE -->
+  <!-- Top-Right Piece (Navy) -->
+  <path
+      fill="#254178"
+      d="M54,38 L62,42 C63,41 64,41 65,42 L67,45 L78,39 L78,55 L67,61 C66,60 65,60 64,61 L61,63 L54,60 Z" />
+
+  <!-- Bottom-Right Face Pieces (Navy Deep) -->
+  <path
+      fill="#16274A"
+      d="M54,60 L61,63 L61,72 C62,73 63,73 64,72 L67,70 L67,74 L54,82 Z" />
+  <path
+      fill="#1B2E56"
+      d="M67,61 L78,55 L78,71 L67,77 Z" />
+
+  <!-- Box and TQ Text on Right Face -->
+  <path
+      fill="#0B1B38"
+      d="M56,60 L58,61 L58,66 L56,65 Z" />
+  <path
+      fill="#0B1B38"
+      d="M69,54 L74,51 L74,53 L72,54 L72,60 L70,61 L70,55 L69,56 Z" />
+  <path
+      fill="#0B1B38"
+      d="M73,56 C74,55 76,54 77,55 C78,56 78,59 77,60 C76,61 74,62 73,61 C72,60 72,57 73,56 Z" />
+
+  <!-- 3. TOP ISOMETRIC FACE -->
+  <!-- Rear Top Quadrants (Navy) -->
+  <path
+      fill="#2D4D88"
+      d="M54,25 L43,31 L48,34 C49,33 50,33 51,34 L54,37 L57,34 C58,33 59,33 60,34 L65,31 Z" />
+  <path
+      fill="#34599C"
+      d="M43,31 L32,37 L43,43 L48,40 C47,39 47,38 48,37 L54,34 L48,34 Z" />
+  <path
+      fill="#2D4D88"
+      d="M65,31 L60,34 L54,34 L60,37 C61,38 61,39 60,40 L65,43 L76,37 Z" />
+
+  <!-- Center Glowing Socket -->
+  <path
+      fill="#FFA200"
+      fill-opacity="0.75"
+      d="M48,40 L54,37 L60,40 L54,44 Z" />
+
+  <!-- 4. FLOATING PUZZLE PIECE WITH RADIANT GLOW -->
+  <!-- Warm Aura -->
+  <path
+      fill="#FF9500"
+      fill-opacity="0.4"
+      d="M54,16 C63,16 70,22 70,30 C70,38 63,44 54,44 C45,44 38,38 38,30 C38,22 45,16 54,16 Z" />
+
+  <!-- 3D Extrusion Depth of Floating Piece -->
+  <path
+      fill="#C2410C"
+      d="M46,31 L46,34 L54,39 L54,36 Z" />
+  <path
+      fill="#9A3412"
+      d="M54,36 L54,39 L62,34 L62,31 Z" />
+
+  <!-- Floating Jigsaw Top Surface -->
+  <path
+      fill="#FF8500"
+      stroke="#FED7AA"
+      stroke-width="0.8"
+      d="M54,23 C55,22 56,23 56,24 C57,24 58,23 59,22 L60,23 C61,23 62,24 62,25 C63,26 62,27 61,28 L62,31 C63,30 64,30 64,32 C64,33 63,34 62,33 L60,34 C59,35 58,35 57,34 L54,36 L51,34 C50,35 49,35 48,34 L46,33 C45,34 44,33 44,32 C44,30 45,30 46,31 L47,28 C46,27 45,26 46,25 C46,24 47,23 48,23 L49,22 C50,23 51,24 52,24 C52,23 53,22 54,23 Z" />
+
+  <!-- Specular Highlight Curve -->
+  <path
+      stroke="#FFFFFF"
+      stroke-width="0.8"
+      stroke-linecap="round"
+      stroke-opacity="0.75"
+      d="M50,25 L54,23 L58,25" />
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#F5F5F5</color>
+    <color name="jamsbox_orange">#F97316</color>
+    <color name="jamsbox_navy">#0B1A40</color>
+    <color name="jamsbox_bg">#F5F5F5</color>
+    <color name="primary">#0B1A40</color>
+    <color name="primary_variant">#172554</color>
+    <color name="secondary">#0284C7</color>
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="correct_green">#15803D</color>
+    <color name="incorrect_red">#B91C1C</color>
+</resources>

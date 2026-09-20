@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix JamsBox QT",
+  "description": "JamsBox QT is a modern Android academic exam preparation and quiz practice app built with Kotlin, Jetpack Compose, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
